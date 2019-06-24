@@ -1,4 +1,4 @@
 # Tensorflow
-Tensorflow examples and coursera Convolutional Neural Networks course exercises
+Tensorflow examples and coursera courses exercises
 
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/tutorials/mnist
